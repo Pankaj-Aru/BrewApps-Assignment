@@ -56,7 +56,7 @@ setCardData(isData.data)
         <div className="container">
           <h1>Live Space</h1>
           <br/>
-          <h4>  <i class="bi bi-check-circle-fill"></i> All NFT on cyber either  belog to or were  minted by their space  creater</h4>
+          <h4>  <i className="bi bi-check-circle-fill"></i> All NFT on cyber either  belog to or were  minted by their space  creater</h4>
           <div className="filter fl-wrapped">
             <div>
               <button
@@ -65,7 +65,7 @@ setCardData(isData.data)
                 name="all"
               >
               
-                <i class="bi bi-recycle"></i> All
+                <i className="bi bi-recycle"></i> All
               </button>
             </div>
             <div>
