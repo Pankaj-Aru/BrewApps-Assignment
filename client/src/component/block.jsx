@@ -5,7 +5,7 @@ export default function singleBlock(props) {
     <>
       <div className="col mb-4 card_block ">
         <div className="card">
-          <img src={props.data.pic} className="card-img-top" alt="..." />
+          <img src={props.data.pic} loading="lazy" className="card-img-top" alt="..." />
           <div className="card-bodys my-scroll">
             <h5 className="card-title">{props.data.title}</h5>
             <h6 className="card-text">{props.data.subtitle}</h6>-
