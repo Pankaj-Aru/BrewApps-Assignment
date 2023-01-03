@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 branch2--->first commit
 branch2--->second commit
 
 
 
 
+=======
+>>>>>>> parent of 164a469 (this is first commit)
 import Route from "./route/routes.js";
 import express from "express";
 
